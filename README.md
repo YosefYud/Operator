@@ -34,3 +34,13 @@ Operator Key 1: 804d0bc9585c...0ed3ec8fc9baf
 Operator Key 2: 8035c71a6aad...bfb01f62360ba
 Private Key data written to clip:
 ```
+
+
+## Generate Seed
+##### Generate a seed Mnemonic sentence and then copy it to the clipboard and to a file
+``` bash
+node GenSeed.js
+
+C:\Data\Git\Operator>node GenSeed.js
+Mnemonic written to clip and filename: C:\Data\Git\Operator/Mnemonic.txt
+```
